@@ -1,4 +1,5 @@
 # Project 4: Apache Spark & Data Lake
+[![Project passed](https://img.shields.io/badge/project-passed-success.svg)](https://img.shields.io/badge/project-passed-success.svg)
 
 ## Summary
 * [Preamble](#Preamble)
